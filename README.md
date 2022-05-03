@@ -1,6 +1,9 @@
 # Scare
 # Scare
-This is a basic SwiftUI Application with a beautiful slide bar to progress to the next page.  The app is completed with animations of the custom art.  This app is of a halloween theme.
+This is a basic SwiftUI Application with a beautiful slide bar to progress to the next page.  The app is completed with animations of the custom art, and drag gestures.  This app is of a halloween theme.  
+
+To be added:  
+Audio files to give a scarier effect
 
 The app should look like below:
 
